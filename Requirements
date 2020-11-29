@@ -1,0 +1,8 @@
+REQs:
+Turn on Linux (Beta)
+At the bottom right, select the time.
+Select Settings .
+Under "Linux (Beta)," select Turn On.
+Follow the steps on the screen. Setup can take 10 minutes or more.
+A terminal window opens. You have a Debian 10 (Buster) environment. 
+You can run Linux commands, install more tools using the APT package manager, and customize your shell.

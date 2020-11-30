@@ -18,4 +18,4 @@ cd /usr/local/bin
 python3.9 -m pip install --upgrade pip
 
 #To check for Version
-#pip3 --version
+#pip3.9 --version

@@ -1,0 +1,7 @@
+On your Terminal run the single line below:
+"
+  curl https://raw.githubusercontent.com/ivanjrt/PythonChromeOS/main/Installer.sh | bash
+ 
+"
+ 
+This will actually generate a executable so it will be compatible with the majority of Linux flavors
